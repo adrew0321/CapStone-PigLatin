@@ -1,0 +1,7 @@
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\CapStone\capstonePigLatin\capstonePigLatin\obj\Debug\capstonePigLatin.csprojAssemblyReference.cache
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\CapStone\capstonePigLatin\capstonePigLatin\obj\Debug\capstonePigLatin.csproj.CoreCompileInputs.cache
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\CapStone\capstonePigLatin\capstonePigLatin\bin\Debug\capstonePigLatin.exe.config
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\CapStone\capstonePigLatin\capstonePigLatin\bin\Debug\capstonePigLatin.exe
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\CapStone\capstonePigLatin\capstonePigLatin\bin\Debug\capstonePigLatin.pdb
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\CapStone\capstonePigLatin\capstonePigLatin\obj\Debug\capstonePigLatin.exe
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\CapStone\capstonePigLatin\capstonePigLatin\obj\Debug\capstonePigLatin.pdb
