@@ -7,8 +7,9 @@ namespace capstonePigLatin
         static void Main(string[] args)
         {
             string userLine;
-            char[] vowels = { 'a', 'e', 'i', 'o', 'u' };
-            string constant;
+            string vowels = "AEIOUaeiou";
+            string firstLetter;
+            string restOfWord;
 
             bool repeat1 = true;
             while (repeat1)
@@ -22,15 +23,17 @@ namespace capstonePigLatin
 
                 //***PROCESSING***
 
-                for (int i = 0; i < userLine.Length; i++)
-                {
-                    if (userLine[i] == vowels[i])
-                    {
-                        Console.WriteLine(userLine + "way");
-                        Console.ReadLine();
-                        break;
-                    }
+                int index = userLine.IndexOfAny(vowels.ToCharArray());
+                string endOfWord = userLine.Substring(index);
+                string startOfWord = userLine.Substring(0, index);
 
+                if (index == 0)
+                {
+                    Console.WriteLine(endOfWord + startOfWord + "way");
+                }
+                else
+                {
+                    Console.WriteLine(endOfWord + startOfWord + "ay");
                 }
 
 
